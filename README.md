@@ -1,22 +1,13 @@
-# task-board-research
+# Research deliverables
 
-Research and analysis submissions for the Redbelly DAO Community Task Board.
+Public archive index for research tasks on the Redbelly DAO Community Task Board.
 
-**Tasks covered:** 7 (Project Acacia Deep-Dive Analysis), 11 (RBNT Token Utility and Ecosystem Visibility Report)
+| Task | Repository | Credit |
+| --- | --- | --- |
+| TASK-07 | [Project Acacia Analysis](https://github.com/Redbelly-DAO-Community-Taskboard/TASK-07-project-acacia-analysis) | Cipher |
+| TASK-11 | [RBNT Utility Report](https://github.com/Redbelly-DAO-Community-Taskboard/TASK-11-rbnt-utility-report) | Web3builder |
+| TASK-21 | [RWA Mainnet Proof Piece](https://github.com/Redbelly-DAO-Community-Taskboard/TASK-21-rwa-mainnet-proof-piece) | Bluebabyyy |
+| TASK-23 | [Structural Changelog](https://github.com/Redbelly-DAO-Community-Taskboard/TASK-23-structural-changelog) | smartcoded |
 
----
+Each repository includes NOTICE.md with archive and assignment details.
 
-## Submission Requirements
-
-- PDF of the final report (professionally formatted, not a raw Google Docs export)
-- Markdown source file for future web publication
-- Live published link (SSRN, Mirror.xyz, or Substack)
-- All claims must cite verifiable sources
-- No speculative price predictions or promotional language
-
-## Review Criteria
-
-- Factually verifiable against cited sources
-- Reads at institutional standard (equity research or IMF working paper quality)
-- Target audience (central bank officers, institutional investors, analysts) would learn new information
-- No marketing language presented as fact
